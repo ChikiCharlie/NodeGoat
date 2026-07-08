@@ -1,0 +1,11 @@
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Ignore NodeGoat legacy test secrets"
+commits = [
+  "57f638b",
+  "32f597a",
+  "c5f265d",
+  "e0045e6"
+]
