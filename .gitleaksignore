@@ -1,0 +1,2 @@
+# Ignore specific Stripe test key
+e334a7a:config/env.example.js:stripe-access-token:14
